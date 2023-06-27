@@ -4,7 +4,7 @@
 - TypeScript
 - React
 - React Router
-- Redux Toolkit,
+- Redux Toolkit
 - Styled-components
 
 ## Installing dependencies
